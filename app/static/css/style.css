@@ -1,0 +1,47 @@
+@import url(http://fonts.googleapis.com/css?family=Audiowide);
+.super{
+  color: red;
+}
+#awesome{
+color: green;
+}
+body{
+  margin: 0px;
+  background-color: green;
+}
+
+h1{
+  border: 3px double green;
+  font-family: 'Audiowide', cursive;
+  background-color: rgba(199, 223, 28, 0.69);
+  color: rgba(101, 40, 209, 0.82);
+  font-size: 50px;
+  letter-spacing: 10px;
+  padding: 20px;
+  margin: 0px;
+}
+nav{
+  margin-top: 25px;
+}
+
+a{
+  text-decoration: none;
+  color: lightgreen;
+  border: 1px dashed black;
+  padding: 5px;
+  margin: 5px
+}
+a:hover{
+text-decoration: underline;
+color: red;
+background-color: tan;
+}
+
+.super{
+  color: red;
+}
+
+#awesome{
+  color:green;
+}
+
